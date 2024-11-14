@@ -1,0 +1,6 @@
+h1 {
+  font-size: 1.7em !important;
+}
+section > img {
+  max-height: 600px !important;
+}
